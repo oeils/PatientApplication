@@ -1,12 +1,14 @@
 /**
- * Procedure.java
- * CMSC203 - Assignment 2
- *
- * Stores information about a medical procedure,
+ * Class: CMSC203
+ * Instructor: Gary Thai
+ * Description: Stores information about a medical procedure,
  * including its name, date, practitioner, and charges.
- *
- * Programmer: Elijah Peaks
- * Platform: Eclipse IDE
+ * Due: 10/09/2026
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming assignment
+ * independently. I have not copied the code from a student or
+ * any source. I have not given my code to any student.
+ * Print your Name here: Elijah Peaks
  */
 public class Procedure {
 

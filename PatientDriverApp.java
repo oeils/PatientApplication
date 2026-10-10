@@ -1,14 +1,16 @@
 import java.util.Scanner;
 
 /**
- * PatientDriverApp.java
- * CMSC203 - Assignment 2
- *
- * Collects patient information and displays medical
+ * Class: CMSC203
+ * Instructor: Gary Thai
+ * Description: Collects patient information and displays medical
  * procedures, charges, and a summary.
- *
- * Programmer: Elijah Peaks
- * Platform: Eclipse IDE
+ * Due: 10/09/2026
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming assignment
+ * independently. I have not copied the code from a student or
+ * any source. I have not given my code to any student.
+ * Print your Name here: Elijah Peaks
  */
 public class PatientDriverApp {
 

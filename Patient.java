@@ -1,12 +1,14 @@
 /**
- * Patient.java
- * CMSC203 - Assignment 2
- *
- * Stores patient information, including personal details,
- * address, phone number, and emergency contact information.
- *
- * Programmer: Elijah Peaks
- * Platform: Eclipse IDE
+ * Class: CMSC203
+ * Instructor: Gary Thai
+ * Description: Stores patient information, including personal
+ * details, address, phone number, and emergency contact information.
+ * Due: 10/09/2026
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming assignment
+ * independently. I have not copied the code from a student or
+ * any source. I have not given my code to any student.
+ * Print your Name here: Elijah Peaks
  */
 public class Patient {
 
