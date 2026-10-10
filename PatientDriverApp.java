@@ -218,6 +218,7 @@ public class PatientDriverApp {
         Procedure p3 = createProcedure3();
 
         displayPatient(patient);
+        displayProcedure(p1);
         displayProcedureTable(p1, p2, p3);
         displaySummary(p1, p2, p3);
 
